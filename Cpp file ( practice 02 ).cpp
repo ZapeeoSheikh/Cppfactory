@@ -42,5 +42,5 @@ int main()
 	}while(j<=10);
 	
 return 0;
-
+//For C++ Beginner (file is Attached)
 }
