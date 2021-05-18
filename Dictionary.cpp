@@ -2,7 +2,6 @@
 //*********************    Dictionary    ********************************
 /* Group members
     ..Muhammad Rameez ( 90-bscs-20)
-    ..Wisha Tariq ( 39-bscs-20 )
   Section C
   Semester 01
    
@@ -59,6 +58,6 @@ void StartScreen() {
 	Sleep(1200);                                 
 	system("CLS");              
 }                            
-//*******************( Sumbitted by Muhammad Rameez & Wisha Tariq )*****************************
-//*******************( Roll number # 90-bscs-20 & 39-bscs-20 || Section C)*********************
+//*******************( Sumbitted by Muhammad Rameez )*****************************
+//*******************( Roll number # 90-bscs-20 || Section C)*********************
 //*******************( Sumbitted to Dr. Muhammad Suffyan   )**********************
